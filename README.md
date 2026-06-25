@@ -1,5 +1,6 @@
 # 🚀  Test Plan & Arquitectura QA
 
+
 | Capa / Componente | Tecnologías | Propósito / Alcance |
 | :--- | :--- | :--- |
 | **🤖 Automatización E2E** | ![Python](https://shields.io) ![Appium](https://shields.io) ![Android](https://shields.io) | Pruebas funcionales e integrales móviles automatizadas. |
@@ -7,6 +8,7 @@
 | **🔒 Seguridad (DAST/MitM)** | ![Charles Proxy](https://shields.io) | Validación de políticas TLS y bypass de SSL Pinning. |
 | **📈 Observabilidad** | ![Grafana](https://shields.io) | Telemetría integrada para monitoreo en tiempo real de Connection Pools. |
 | **⚙️ Infraestructura** | ![Node.js](https://shields.io) ![PostgreSQL](https://shields.io) | Servidor de aplicación y capa de persistencia de datos analizada. |
+
 
 
 ---
