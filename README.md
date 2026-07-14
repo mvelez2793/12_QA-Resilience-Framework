@@ -3,11 +3,11 @@
 
 | Capa / Componente | Tecnologías | Propósito / Alcance |
 | :--- | :--- | :--- |
-| **🤖 Automatización E2E** | ![Python] ![Appium] ![Android] | Pruebas funcionales e integrales móviles automatizadas. |
-| **📊 Performance & Stress** | ![Postman] | Ejecución de Postman Performance Runner con VUs concurrentes. |
-| **🔒 Seguridad (DAST/MitM)** | ![Charles Proxy] | Validación de políticas TLS y bypass de SSL Pinning. |
-| **📈 Observabilidad** | ![Grafana] | Telemetría integrada para monitoreo en tiempo real de Connection Pools. |
-| **⚙️ Infraestructura** | ![Node.js] ![PostgreSQL] | Servidor de aplicación y capa de persistencia de datos analizada. |
+| **🤖 Automatización E2E** | Python, Appium, Android | Pruebas funcionales e integrales móviles automatizadas. |
+| **📊 Performance & Stress** | Postman | Ejecución de Postman Performance Runner con VUs concurrentes. |
+| **🔒 Seguridad (DAST/MitM)** | Charles Proxy | Validación de políticas TLS y bypass de SSL Pinning. |
+| **📈 Observabilidad** | Grafana | Telemetría integrada para monitoreo en tiempo real de Connection Pools. |
+| **⚙️ Infraestructura** | Node.js, PostgreSQL | Servidor de aplicación y capa de persistencia de datos analizada. |
 
 
 
